@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+  --color-bg-custom: #ebebeb;
+  --color-brand-green: #47602e;
+  --color-brand-light-green: #83a455;
+}
+
+@tailwind utilities;
