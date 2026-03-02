@@ -7,9 +7,6 @@ const Navbar = () => {
         </a>
 
         <div className="space-x-10 text-sm">
-          <a href="#about" className="hover:font-underline">
-            About
-          </a>
           <a href="#projects" className="hover:font-underline">
             Projects
           </a>
